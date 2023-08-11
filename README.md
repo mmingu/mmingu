@@ -1,4 +1,4 @@
-### Hi there 👋   FIRST 23.12.11.LIST
+### Hi there 👋   FIRST 23.12.11.LIST  8.17 FIRSTPROJECT
 
 ###KIM MIN GU 😉😊  
 
