@@ -4,7 +4,7 @@
 
 ```mermaid
 gantt
-    title A Gantt Diagram
+    title 프로젝트 일정표
     dateFormat  YYYY-MM-DD
     section 문서화
     AI 기술테스트  : a1, 2020-10-14, 10d
