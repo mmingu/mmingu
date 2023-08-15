@@ -1,5 +1,20 @@
 ### Hi there 👋   FIRST 23.12.11.LIST  8.17 FIRSTPROJECT
-
+```mermaid
+gantt
+    title A Gantt Diagram
+    dateFormat YYYY-MM-DD
+    section 문서화
+         제안서 작성       :done, a1, 2023-08-15, 1d
+        구성도 작성    :a2, 2023-08-16, 1d
+        설치 메뉴얼   :a3, 2023-08-17, 6d
+        시연 PPT       : a4, 2023-08-23, 2d
+    section 구현
+        네트워크 :a1,2023-08-17, 1d
+        서버(도커)    :a2, 2023-08-21,  1d
+        서버(젠킨스)    :a2, 2023-08-22,  1d
+        서버(쿠버네티스)    :a2, 2023-08-23,1d
+        
+```
 ###KIM MIN GU 😉😊  
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmmingu&count_bg=%239DB6DF&title_bg=%2383D1DB&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
