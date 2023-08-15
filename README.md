@@ -1,24 +1,5 @@
 ### Hi there 👋   FIRST 23.12.11.LIST  8.17 FIRSTPROJECT
 
-## 📖 Gantt :fire:
-
-```mermaid
-gantt
-    title 프로젝트 일정표
-    dateFormat  YYYY-MM-DD
-    section 문서화
-    제안서 작성  : a0.5, 2023-08-15, 2d
-    가상 얼굴 학습 및 환경세팅  : 2023-08-15, 10d
-    얼굴 인식 개선 및 적용 : a1, 10d
-    가상 얼굴 이미지 생성 및 분류 : a1, 4d
-
-    section 구현 
-    와이어프레임     :a1,2023-08-15, 10d
-    react 학습 및 적용 :  a1,  10d
-    사진 업로드 및 설정 기능 :a1 , 10d
-
-```
-
 ###KIM MIN GU 😉😊  
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmmingu&count_bg=%239DB6DF&title_bg=%2383D1DB&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
