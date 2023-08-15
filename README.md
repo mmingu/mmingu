@@ -7,7 +7,7 @@ gantt
     title 프로젝트 일정표
     dateFormat  YYYY-MM-DD
     section 문서화
-    AI 기술테스트  : , 2023-08-15, 10d
+    AI 기술테스트  : a1, 2023-08-15, 2d
     가상 얼굴 학습 및 환경세팅  : 2023-08-15, 10d
     얼굴 인식 개선 및 적용 : after a1, 10d
     가상 얼굴 이미지 생성 및 분류 : after a1, 4d
