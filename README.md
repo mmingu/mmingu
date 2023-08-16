@@ -5,7 +5,7 @@ gantt
     dateFormat YYYY-MM-DD
     section 문서화
          제안서 작성       :done, a1, 2023-08-15, 1d
-        구성도 작성    :a2, 2023-08-16, 1d
+        구성도 작성    : done, a2, 2023-08-16, 1d
         설치 메뉴얼   :a3, 2023-08-17, 6d
         시연 PPT       : a4, 2023-08-23, 2d
     section 구현
