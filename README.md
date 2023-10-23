@@ -2,7 +2,7 @@
 ```mermaid
 gantt
     title A Gantt Diagram
-    dateFormat YYYY-MM-DD
+    dateFormat YYYY-MM-DDdd
     section 문서화
          제안서 작성       :done, a1, 2023-08-15, 1d
         구성도 작성    : done, a2, 2023-08-16, 1d
