@@ -1,4 +1,4 @@
-### Hi there 👋   FIRST 23.12.11.LIST  8.17 FIRSTPROJECT  10.19 no.2 project
+### Hi there 👋   FIRST 23.12.11.LIST  8.17 FIRSTPROJECT  10.19 no.2 project v2
 ```mermaid
 gantt
     title A Gantt Diagram
